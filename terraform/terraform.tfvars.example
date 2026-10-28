@@ -1,0 +1,9 @@
+aws_region      = "us-east-1"
+repository_name = "devops-lab-api"
+force_delete    = false
+
+tags = {
+  Project     = "devops-lab"
+  Environment = "dev"
+  ManagedBy   = "terraform"
+}

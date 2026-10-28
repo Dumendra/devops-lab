@@ -1,0 +1,14 @@
+.git
+.github
+.venv
+__pycache__
+*.pyc
+.pytest_cache
+tests
+docs
+terraform
+k8s
+Makefile
+README.md
+.env
+.env.*
