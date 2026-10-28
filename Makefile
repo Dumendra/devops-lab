@@ -22,7 +22,7 @@ lint:
 	flake8 app tests
 
 test:
-	pytest -q
+	python -m pytest -q
 
 run:
 	python -m app.main
